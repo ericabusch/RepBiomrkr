@@ -1,0 +1,17 @@
+numpy==2.0.0
+nltools
+brainiak
+nibabel 
+nilearn
+pandas
+scipy
+seaborn==0.12.2
+seaborn-base
+statsmodels
+matplotlib
+scikit-learn
+phate
+tphate
+ephate
+future
+graphtools
