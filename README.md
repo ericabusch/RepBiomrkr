@@ -5,6 +5,9 @@
 ## To run this code locally:
 Clone this repository (or download it) and use the notebooks `functional_alignment_example.ipynb` and `manifold_learning_example.ipynb`. They will import code from the python scripts and data from the `sample_data` directory. You can also create your own notebook and source these scripts yourself.
 
+You will likely want to create a conda environment for this. If you already have conda installed, you can create an environment with the requirements file: 
+`conda create --name ENV_NAME python=3.11 numpy=2.0.0 seaborn=0.12.2`; `conda activate ENV_NAME`; `pip install requirements.txt`
+
 ## To run these tutorials on colab: 
 Fork the repository into your own github account, and navigate to your fork. Then, choose which notebook you want to work with first and open it in github: 
 ![Notebook in github](screenshot1.png)
