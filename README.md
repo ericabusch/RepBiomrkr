@@ -21,5 +21,5 @@ From here, you can create a copy of it in your Google Drive account by clicking 
 
 Then you will follow the instructions within the notebook to clone the repo into your colab session and access the data.
 
-Alternatively, you can download the notebook from Github, open [https://colab.research.google.com/](colab.research.google.com), upload the notebook that you downloaded, and continue from the instructions within the notebook. 
+Alternatively, you can download the notebook from Github, open https://colab.research.google.com, upload the notebook that you downloaded, and continue from the instructions within the notebook. 
 
