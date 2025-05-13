@@ -1,6 +1,7 @@
 # RepBiomrkr repository
 Representing fMRI data to isolate mental health biomarkers
-Resources corresponding with our recent Perspective paper: [link tbd]
+
+Resources corresponding with our recent perspective paper: [link tbd]
 ELB May 2025 
 
 ## To run this code locally:
